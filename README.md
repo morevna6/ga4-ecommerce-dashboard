@@ -24,7 +24,7 @@ You can view the interactive Looker Studio dashboard here:
 
 ## Dashboard Preview
 
-![Dashboard Overview](screenshots/dashboard_overview.png)
+![Dashboard Overview](dashboard/project_last_-_Günışığı_Aydoğan.pdf)
 
 The dashboard provides an interactive overview of GA4 e-commerce performance. It includes KPI cards, funnel analysis, time series charts, revenue analysis, landing page performance, device conversion insights, and interactive filters.
 
