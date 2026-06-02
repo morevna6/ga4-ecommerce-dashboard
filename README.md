@@ -8,7 +8,7 @@ This project transforms raw GA4 event-level data into clean, dashboard-ready SQL
 
 ## Author
 
-**Fatma Günışığı Aydoğan**
+**Günışığı Aydoğan**
 
 [LinkedIn](https://www.linkedin.com/in/gunisigiaydogan/)
 
