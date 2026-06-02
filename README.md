@@ -18,7 +18,7 @@ This project transforms raw GA4 event-level data into clean, dashboard-ready SQL
 
 You can view the interactive Looker Studio dashboard here:
 
-[View the Live Dashboard](PASTE_YOUR_LOOKER_STUDIO_LINK_HERE)
+[View the Live Dashboard](https://datastudio.google.com/u/0/reporting/abf5bc46-887a-4901-939e-80cdeab1046b/page/7FrzF)
 
 ---
 
